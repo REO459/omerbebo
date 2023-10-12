@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/omerbebo/static/css/main.48187913.css",
+    "main.js": "/omerbebo/static/js/main.dc322e0f.js",
+    "static/media/netflix.png": "/omerbebo/static/media/netflix.40ed1b472ed3189a518c.png",
+    "static/media/realestateImg.png": "/omerbebo/static/media/realestateImg.ef08639517f3f2a50e24.png",
+    "static/media/songImg.png": "/omerbebo/static/media/songImg.737a08377be26e016c23.png",
+    "static/media/tetris.png": "/omerbebo/static/media/tetris.43b11e4e1c3b90d8ef9e.png",
+    "static/media/magicCocktail.png": "/omerbebo/static/media/magicCocktail.e7ba53002a9ac2acd0ce.png",
+    "static/media/OMER BEBO.pdf": "/omerbebo/static/media/OMER BEBO.a719ecc4c241fbd33439.pdf",
+    "static/media/react.png": "/omerbebo/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/omerbebo/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/java.png": "/omerbebo/static/media/java.2be0bca1b95cfc0ce63e.png",
+    "static/media/html.png": "/omerbebo/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/omerbebo/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/python.png": "/omerbebo/static/media/python.2352cac0787ede2aa30e.png",
+    "static/media/javascript.png": "/omerbebo/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/mysql.png": "/omerbebo/static/media/mysql.8ca52c25afffafaa83f1.png",
+    "index.html": "/omerbebo/index.html",
+    "main.48187913.css.map": "/omerbebo/static/css/main.48187913.css.map",
+    "main.dc322e0f.js.map": "/omerbebo/static/js/main.dc322e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48187913.css",
+    "static/js/main.dc322e0f.js"
+  ]
+}
