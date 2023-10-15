@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/omerbebo/static/css/main.48187913.css",
-    "main.js": "/omerbebo/static/js/main.dc322e0f.js",
+    "main.css": "/omerbebo/static/css/main.77420fd8.css",
+    "main.js": "/omerbebo/static/js/main.52a38e44.js",
     "static/media/netflix.png": "/omerbebo/static/media/netflix.40ed1b472ed3189a518c.png",
     "static/media/realestateImg.png": "/omerbebo/static/media/realestateImg.ef08639517f3f2a50e24.png",
     "static/media/songImg.png": "/omerbebo/static/media/songImg.737a08377be26e016c23.png",
@@ -17,11 +17,11 @@
     "static/media/javascript.png": "/omerbebo/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/mysql.png": "/omerbebo/static/media/mysql.8ca52c25afffafaa83f1.png",
     "index.html": "/omerbebo/index.html",
-    "main.48187913.css.map": "/omerbebo/static/css/main.48187913.css.map",
-    "main.dc322e0f.js.map": "/omerbebo/static/js/main.dc322e0f.js.map"
+    "main.77420fd8.css.map": "/omerbebo/static/css/main.77420fd8.css.map",
+    "main.52a38e44.js.map": "/omerbebo/static/js/main.52a38e44.js.map"
   },
   "entrypoints": [
-    "static/css/main.48187913.css",
-    "static/js/main.dc322e0f.js"
+    "static/css/main.77420fd8.css",
+    "static/js/main.52a38e44.js"
   ]
 }
